@@ -1,8 +1,20 @@
 Databases
 
-Homelessness in the United States, 2007 to 2016
+Homelessness in the United States, 2007 to 2016 & Population by State
 https://www.kaggle.com/adamschroeder/homelessness
 Licence: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
+PIT and HIC Data Since 2007
+2007 - 2017 PIT Counts by State
+https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+©2018 US Department of Housing and Urban Development
+Retrieved 6 May, 2018
+
+PIT and HIC Data Since 2007
+2007 - 2017 HIC Data by State
+https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+©2018 US Department of Housing and Urban Development
+Retrieved 6 May, 2018
 
 The 2015 American Community Survey Public Use Microdata Sample
 https://www.kaggle.com/census/2015-american-community-survey/version/3
