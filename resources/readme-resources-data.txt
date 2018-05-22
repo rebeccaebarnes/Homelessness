@@ -52,4 +52,3 @@ US Unemployment Rate by County, 1990-2016
 https://www.kaggle.com/jayrav13/unemployment-by-county-us
 Licence: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
 Original data: https://data.bls.gov/map/MapToolServlet?survey=la&map=county&seasonal=u
-
