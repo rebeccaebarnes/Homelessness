@@ -9,3 +9,13 @@ Replacing values across an entire df
 How to Include Image or Picture in Jupyter Notebook
 https://www.youtube.com/watch?v=xlD8FIM5biA
 Displaying images in the notebook
+
+Mapping County Demographic Data in R
+https://www.gislounge.com/mapping-county-demographic-data-in-r/
+Plotting county demographic data
+
+Create maps in R in 10 (fairly) easy steps
+https://www.computerworld.com/article/3038270/data-analytics/create-maps-in-r-in-10-fairly-easy-steps.html
+
+Data Manipulation in R
+https://mgimond.github.io/Spatial/data-manipulation-in-r.html
