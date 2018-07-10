@@ -52,3 +52,9 @@ US Unemployment Rate by County, 1990-2016
 https://www.kaggle.com/jayrav13/unemployment-by-county-us
 Licence: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
 Original data: https://data.bls.gov/map/MapToolServlet?survey=la&map=county&seasonal=u
+
+State Population Totals and Components of Change: 2010-2017
+https://www.census.gov/data/tables/2017/demo/popest/state-total.html
+United States Census Bureau
+Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2017 
+Accessed: July 9, 2018
