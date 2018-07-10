@@ -58,3 +58,9 @@ https://www.census.gov/data/tables/2017/demo/popest/state-total.html
 United States Census Bureau
 Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2017 
 Accessed: July 9, 2018
+
+Population and Housing Unit Estimates
+https://www.census.gov/programs-surveys/popest/technical-documentation/research/evaluation-estimates.html
+United States, State, and Puerto Rico Totals - Released February 2011 and March 2012
+United States Census Bureau
+Accessed: July 10, 2018
