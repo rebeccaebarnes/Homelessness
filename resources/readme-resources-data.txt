@@ -64,3 +64,8 @@ https://www.census.gov/programs-surveys/popest/technical-documentation/research/
 United States, State, and Puerto Rico Totals - Released February 2011 and March 2012
 United States Census Bureau
 Accessed: July 10, 2018
+
+US rental data 
+https://www.apartmentlist.com/rentonomics/rental-price-data/?
+Accessed: July 12, 2018
+Updated July 1, 2018
