@@ -69,3 +69,9 @@ US rental data
 https://www.apartmentlist.com/rentonomics/rental-price-data/?
 Accessed: July 12, 2018
 Updated July 1, 2018
+
+Unemployment Rates for States Annual Average Rankings 2010 - Present
+http://www.dlt.ri.gov/lmi/laus/us/annavg.htm
+RI Department of Labor and Training
+Labor Market Information
+Accessed: July 12, 2018
