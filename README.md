@@ -1,4 +1,4 @@
-# Understanding Homelessness
+# Homelessness in America
 ## Background
 Homelessness is an issue that continues to burden our communities across the globe. While typical discussion around the causes of homelessness can focus on the personal/individual level, it is known that many structural/macro level factors contribute to homelessness.
 
