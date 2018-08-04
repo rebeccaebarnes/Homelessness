@@ -10,12 +10,6 @@ https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
 ©2018 US Department of Housing and Urban Development
 Retrieved 6 May, 2018
 
-PIT and HIC Data Since 2007
-2007 - 2017 HIC Data by State
-https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
-©2018 US Department of Housing and Urban Development
-Retrieved 6 May, 2018
-
 The 2015 American Community Survey Public Use Microdata Sample
 https://www.kaggle.com/census/2015-american-community-survey/version/3
 Licence: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
@@ -66,7 +60,7 @@ United States Census Bureau
 Accessed: July 10, 2018
 
 US rental data 
-https://www.apartmentlist.com/rentonomics/rental-price-data/?
+https://www.apartmentlist.com/rentonomics/rental-price-data/
 Accessed: July 12, 2018
 Updated July 1, 2018
 
@@ -75,3 +69,8 @@ http://www.dlt.ri.gov/lmi/laus/us/annavg.htm
 RI Department of Labor and Training
 Labor Market Information
 Accessed: July 12, 2018
+
+HUD Awards and Allocations
+https://www.hudexchange.info/grantees/allocations-awards/
+HUD Exchange
+Accessed: August 3, 2018
