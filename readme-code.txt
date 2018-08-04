@@ -19,3 +19,6 @@ https://www.computerworld.com/article/3038270/data-analytics/create-maps-in-r-in
 
 Data Manipulation in R
 https://mgimond.github.io/Spatial/data-manipulation-in-r.html
+
+Conditional Replace Pandas
+https://stackoverflow.com/questions/21608228/conditional-replace-pandas
