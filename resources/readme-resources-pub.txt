@@ -45,3 +45,43 @@ Department of Health & Human Services. Published, 2009. Accessed, 22, May 2018.
 
 United States Interagency Council on Homelessness
 https://www.usich.gov/
+
+Community Development Block Grant Program - CDBG
+https://www.hud.gov/program_offices/comm_planning/communitydevelopment/programs
+US Department of Housing and Urban Development
+Accessed: August 3, 2018
+
+Continuum of Care (CoC) Program
+https://www.hudexchange.info/programs/coc/
+HUD Exchange
+Accessed: August 3, 2018
+
+Emergency Shelter Grants Program
+https://www.hudexchange.info/programs/emergency-shelter-grants/
+HUD Exchange
+Accessed: August 3, 2018
+
+Emergency Solutions Grants Program
+https://www.hudexchange.info/programs/esg/
+HUD Exchange
+Accessed: August 3, 2018
+
+HOME Investment Partnerships Program
+https://www.hud.gov/program_offices/comm_planning/affordablehousing/programs/home
+US Department of Housing and Urban Development
+Accessed: August 3, 2018
+
+HOME Investment Partnerships Program
+https://www.hud.gov/program_offices/comm_planning/affordablehousing/programs/home
+US Department of Housing and Urban Development
+Accessed: August 3, 2018
+
+Housing Opportunities for Persons With AIDS
+https://www.hudexchange.info/programs/hopwa/
+HUD Exchange
+Accessed: August 3, 2018
+
+Neighborhood Stabilization Program
+https://www.hudexchange.info/programs/nsp/
+HUD Exchange
+Accessed: August 3, 2018
