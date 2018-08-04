@@ -85,3 +85,8 @@ Neighborhood Stabilization Program
 https://www.hudexchange.info/programs/nsp/
 HUD Exchange
 Accessed: August 3, 2018
+
+Housing Trust Fund
+https://www.hudexchange.info/programs/htf/
+HUD Exchange
+Accessed: August 3, 2018
