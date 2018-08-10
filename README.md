@@ -51,6 +51,13 @@ Due to the structure of the original dataset, the data has been split into a num
 ### Unemployment
 - **unemployment:** Average annual unemployment data by state from 2007 to 2017
 
+### Tableau datasets
+These datasets were specifically put together for use in a Tableau project.
+- **tableau-data:** Combined subset of homelessness, population, and rental price information
+- **family-rent-prices:** Rental price information from Apartment List using 2, 3, and 4 bedroom rental prices as a proxy for family rental costs
+- **single-rent-prices:** Rental price information from Apartment List using studio and 1 bedroom rental prices as a proxy for single person rental costs
+- **intervention-impact:** Numerical data from the United States Interagency Council on Homelessness [federal plan to prevent and end homelessness](https://www.usich.gov/resources/uploads/asset_library/USICH_OpeningDoors_Amendment2015_FINAL.pdf) on service use costs
+
 #### Using these datasets
 All datasets listed are consider to be clean versions of the data resources and ready for EDA.
 
