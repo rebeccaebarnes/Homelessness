@@ -4,8 +4,8 @@ Homelessness is an issue that continues to burden our communities across the glo
 
 This goal of this project is to examine macro level factors that a related to homelessness using US data.
 
-## How to Collaborate
-If you are interested in collaborating on this project, please read the COLLABORATE document.
+## How to Contribute
+If you are interested in collaborating on this project, please read the CONTRIBUTING document.
 
 ## Resources
 The following original sources were accessed to create datasets for analysis. These are located in the resources folder.

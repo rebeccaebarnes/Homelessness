@@ -1,5 +1,5 @@
-# How to Collaborate
-Thanks for your interest in collaborating in this project! It is still in its beginning stages and so the process for collaboration will develop over time. All elements of the project are in need of collaboration, from documentation, to identifying and gathering appropriate datasets, data wrangling and exploration, to model development. If you're interested in helping out, there's probably a place for you!
+# How to Contribute
+Thanks for your interest in contributing to this project! It is still in its beginning stages and so the process for collaboration will develop over time. All elements of the project are in need of collaboration, from documentation, to identifying and gathering appropriate datasets, data wrangling and exploration, to model development. If you're interested in helping out, there's probably a place for you!
 
 The project is currently being developed using Jupyter Notebooks. Coding in Python or R is preferred.
 
