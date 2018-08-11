@@ -1,1 +1,4 @@
 to_trim/*.csv
+
+# Jupyter Notebook
+.ipynb_checkpoints
