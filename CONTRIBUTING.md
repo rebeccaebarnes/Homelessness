@@ -1,5 +1,5 @@
-# How to Collaborate
-Thanks for your interest in collaborating in this project! It is still in its beginning stages and so the process for collaboration will develop over time. All elements of the project are in need of collaboration, from documentation, to identifying and gathering appropriate datasets, data wrangling and exploration, to model development. If you're interested in helping out, there's probably a place for you!
+# How to Contribute
+Thanks for your interest in contributing to this project! It is still in its beginning stages and so the process for collaboration will develop over time. All elements of the project are in need of collaboration, from documentation, to identifying and gathering appropriate datasets, data wrangling and exploration, to model development. If you're interested in helping out, there's probably a place for you!
 
 The project is currently being developed using Jupyter Notebooks. Coding in Python or R is preferred.
 
@@ -11,6 +11,12 @@ The project is currently being developed using Jupyter Notebooks. Coding in Pyth
 
 ## Get in Touch
 Because this project is still in the beginning stages, it is important that all collaborators are working towards the same goals in a coordinated fashion. If you are interested in collaborating, please email rebeccaebarnes@gmail.com to introduce yourself and chat about your areas of interest for the project.
+
+## Suggested Workflow
+1. Fork this project.
+2. Create a branch for your changes.
+3. Make your changes on the branch (See Commit Message Structure below).
+4. Send a [pull request](https://help.github.com/articles/about-pull-requests/).
 
 ## Commit Message Structure
 This commit message structure is borrowed from the [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/) with a couple of additions based on the data science nature of the project.

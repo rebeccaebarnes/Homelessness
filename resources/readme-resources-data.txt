@@ -74,3 +74,8 @@ HUD Awards and Allocations
 https://www.hudexchange.info/grantees/allocations-awards/
 HUD Exchange
 Accessed: August 3, 2018
+
+American Community Survey
+https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_16_1YR_B02001&prodType=table
+United States Census Bureau
+Accessed: August 10, 2018
